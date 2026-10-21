@@ -1,0 +1,14 @@
+# 大文件不入库：图片数据集从 Kaggle 下载（见 download_leaves_data.py）
+images/
+*.ckpt
+*.zip
+*.zip.kaggle-partial
+
+# 本地工作文件
+.ipynb_checkpoints/
+.learnings/
+.claude/
+__pycache__/
+
+# 教材原件（d2l 热狗微调示例，非本项目内容）
+fine-tuning-hotdog-original.ipynb
