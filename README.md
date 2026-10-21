@@ -1,7 +1,7 @@
 # Kaggle 叶子分类（Classify Leaves）
 
 Kaggle 图像分类入门比赛：[Classify Leaves](https://www.kaggle.com/c/classify-leaves)。
-任务：把 17,000+ 张叶子照片分到 **176 个植物类别**（训练集 18,353 张 / 测试集 8,800 张）。
+任务：把 27,000+ 张叶子照片分到 **176 个植物类别**（训练集 18,353 张 / 测试集 8,800 张）。
 
 ## 方法与结果
 
